@@ -62,20 +62,29 @@ MoM Revenue Growth — month-over-month trend across all 36 months
 ecommerce-pricing-revenue-analysis/
 
 ├── README.md
+
 ├── data/
+
 │   └── ecommerce_pricing_revenue_36months.csv
 ├── sql/
 │   └── business_questions.sql
 ├── python/
+
 │   └── eda_charts.py
 ├── charts/
+
 │   └── chart1-6...png
 ├── power-bi/
+
 │   ├── dashboard.pbix
+
 │   └── powerbi_dashboard_design.md
 ├── screenshots/
+
 │   └── overview.png
+
 └── report/
+
     └── business_report.md
 
 🚀 How to Run
