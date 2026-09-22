@@ -4,6 +4,7 @@ E-Commerce Revenue & Pricing Analytics
 An end-to-end data analytics project investigating why an Indian e-commerce business's revenue growth stalled at ~1% a year despite an average 38% discount across all orders. Built using SQL, Python, and Power BI on 30,600 orders spanning 36 months, 14 states, and 8 product categories.
 
 🎯 Objective
+
 Find the root cause of stagnant year-over-year revenue growth
 Test whether the existing discounting strategy is actually driving revenue or just volume
 Identify specific states and categories responsible for growth and decline
