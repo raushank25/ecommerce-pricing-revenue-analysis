@@ -53,6 +53,8 @@ Festival timing works, unevenly: festival orders earned 60% more on average, ran
 
 
 (Add dashboard screenshots here, e.g. ![Overview](screenshots/overview.png))
+<img width="1274" height="711" alt="Screenshot 2026-09-21 001205" src="https://github.com/user-attachments/assets/8344c10d-2065-4a5a-bf79-b4cc014f6094" />
+
 
 Overview page — KPI cards, revenue trend, category & state breakdown
 MoM Revenue Growth — month-over-month trend across all 36 months
