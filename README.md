@@ -50,12 +50,7 @@ Festival timing works, unevenly: festival orders earned 60% more on average, ran
 5 specific state × category combinations were pinpointed as the sharpest decliners for direct intervention
 
 🖼️ Dashboard / Screenshots
-
-
-(Add dashboard screenshots here, e.g. ![Overview](screenshots/overview.png))
 <img width="1274" height="711" alt="Screenshot 2026-09-21 001205" src="https://github.com/user-attachments/assets/8344c10d-2065-4a5a-bf79-b4cc014f6094" />
-C:\DOOLU DOCOMENT\ecommerce-pricing-revenue-analysis\charts
-"C:\DOOLU DOCOMENT\ecommerce-pricing-revenue-analysis\charts\chart1_monthly_trend.png"
 
 
 Overview page — KPI cards, revenue trend, category & state breakdown
